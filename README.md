@@ -16,6 +16,6 @@ The file trade_data.R is used to analyze the global trade dataset in the main pa
 
 The file global_flights.R is used to analyze the global flight network in the supplementary material.  This uses only the data flight_route.RData.
 
-Finally, the file covid_flights.R is  used to analyze the time series of USA flights in the supplementary material.  This uses the data US_airport_networks-only48states.RData and the file uscities.csv, which contains helpful information on latitude and longitude for plotting.  This file also uses the code pltfunctions.R for additional plotting.
+Finally, the file USA_flights.R is  used to analyze the time series of USA flights in the supplementary material.  This uses the data US_airport_networks-only48states.RData and the file uscities.csv, which contains helpful information on latitude and longitude for plotting.  This file also uses the code pltfunctions.R for additional plotting.
 
 Finally, the file misc.R contains additional helper functions to calculate ell_{2,\infty} distances between orthonormal matrices.  
