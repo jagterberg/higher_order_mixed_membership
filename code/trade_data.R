@@ -1,6 +1,6 @@
 ######################################
 #' this script provides the analysis for the trade dataset in the main paper.  
-#' This script also contains the code to produce Figure 1 and figure 7.
+#' This script also contains the code to produce Figures 1,6, and 7.
 ######################################
 
 #Load required packages:
