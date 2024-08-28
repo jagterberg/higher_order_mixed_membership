@@ -1,4 +1,4 @@
-# Code for "Estimating Higher-Order Mixed Memberships via the \ell_{2,\infty} Tensor Perturbation Bound" by Joshua Agterberg and Anru Zhang
+# Code for "Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound" by Joshua Agterberg and Anru Zhang
 
 This repository contains all the code required to analyze the data and reproduce the figures in “Estimating Higher-Order Mixed Memberships via the $\ell_{2,\infty}$ Tensor Perturbation Bound.”
 
