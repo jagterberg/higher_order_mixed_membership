@@ -9,14 +9,13 @@
 
 source("misc.R")
 source("HOOI.R")
-source("membership_estimation")
+source("membership_estimation.R")
 source("tensor_two_infty.R")
 
 ##############################
 # initialize parameters for simulations
-numcores<- detectCores()
-cl <- makeCluster(numcores,type = "FORK")
-registerDoParallel(cl,numcores)
+cl <- makeCluster(4,type = "FORK")
+registerDoParallel(cl,4)
 
 print("got here!")
 rs <- rep(3,3)
